@@ -9,3 +9,5 @@
   - If you use a Virtual Machine, you have to enter the redirected PORT.
   - Example: localhost:8888
   - Wait to open the browser, it may take several minutes.
+
+###### **_For educational purposes only_**
